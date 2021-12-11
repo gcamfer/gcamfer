@@ -1,37 +1,17 @@
-### Hi there 👋
-
-<!--
-**gcamfer/gcamfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi 👋, I'm Guillermo Caminero Fernández</h1>
-<h3 align="center">A Data Scientist with a passion for electronics and cybersecurity</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gcamfer&label=Profile%20views&color=0e75b6&style=flat" alt="gcamfer" /> </p>
+<h3 align="center">Data Scientist with a passion for electronics and cybersecurity</h3>
 
 
-- 🔭 I’m currently working on **Computer vision and NLP projects**
+- 🔭 I’m currently interested on **Computer vision and NLP**
 - 🌱 I’m currently learning **PySpark, Tensorflow, OpenCV**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/guillermo-caminero-fernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo-caminero-fernandez" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<h4 align="left">IDEs:</h4>
+## Languages and Tools
+#### IDEs:
 
 [<code>
 <img alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" />
@@ -47,7 +27,7 @@ Here are some ideas to get you started:
 </code>](https://www.jetbrains.com/idea/)
 
 
-<h4 align="left">Languages:</h4>
+#### Languages:
 
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
@@ -74,7 +54,7 @@ Here are some ideas to get you started:
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
 
-<h4 align="left">Develop:</h4>
+#### Develop:
 
 [<code>
 <img alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
@@ -108,7 +88,7 @@ Here are some ideas to get you started:
 </code>](https://www.raspberrypi.org/)
 
 
-<h4 align="left">ML:</h4>
+#### ML:
 
 [<code>
 <img alt="opencv" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
@@ -116,6 +96,9 @@ Here are some ideas to get you started:
 [<code>
 <img alt="pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
 </code>](https://pandas.pydata.org/)
+[<code>
+<img alt="numpy" width="26px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png">
+</code>](https://numpy.org/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </code>](https://dev.mysql.com/)
@@ -131,10 +114,18 @@ Here are some ideas to get you started:
 [<code>
 <img alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
 </code>](https://www.tensorflow.org)
+[<code>
+<img alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png">
+</code>](https://keras.io/)
 
 
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcamfer&show_icons=true&locale=en&layout=compact" alt="gcamfer" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcamfer&show_icons=true&locale=en" alt="gcamfer" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gcamfer&label=Profile%20views&color=0e75b6&style=flat" alt="gcamfer" /> </p>
+
+<p align="center"> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=gcamfer&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
+  <img height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gcamfer&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
+</p>
+
